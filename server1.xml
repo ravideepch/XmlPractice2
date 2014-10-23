@@ -1,3 +1,7 @@
 <name> use this to track server changes</name>
 <change1>this is the first change on Server</change1>
+<<<<<<< HEAD
 <change2>second change</change2>
+=======
+<change2>changing again as the previous change doesnt work</change2>
+>>>>>>> master
